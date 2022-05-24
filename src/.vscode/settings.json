@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Work\\workspace\\java\\Dustbin_Management\\lib\\AbsoluteLayout.jar",
+        "d:\\Work\\workspace\\java\\Dustbin_Management\\lib\\activation.jar",
+        "d:\\Work\\workspace\\java\\Dustbin_Management\\lib\\javax.mail.jar",
+        "d:\\Work\\workspace\\java\\Dustbin_Management\\lib\\mysql-connector-java-8.0.23.jar"
+    ]
+}
