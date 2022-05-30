@@ -6,3 +6,5 @@ goto src/dustbin_management/Mail.java line 30 and change the email and password.
 you can also create a env file fo safe work
 
 also goto to your account -> security -> enable less secure app access.
+
+Note: also change the database link.
